@@ -31,8 +31,6 @@ This project explores two foundational NLP tasks:
 - **Classification:** Categorizes text inputs into predefined classes (e.g., legitimate vs. clickbait headlines).
 - **Evaluation:** Measures performance using accuracy, macro F1-score, and micro F1-score.
 
----
-
 ## Workflow
 ### Language Model (`NGramLM`)
 1. **Data Preprocessing:** Tokenizes text and splits it into N-grams.
@@ -64,6 +62,5 @@ This project explores two foundational NLP tasks:
     - `predict`: Classifies input text into categories.
     - `evaluate`: Computes evaluation metrics.
 
----
 
 
