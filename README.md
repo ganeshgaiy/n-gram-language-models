@@ -24,7 +24,7 @@ This project explores two foundational NLP tasks:
 - **Text Generation:** Produces coherent text based on initial prompts.
 - **Parameter Optimization:**
   - Finds the optimal smoothing constant (k).
-  - Tunes interpolation weights (\( \lambda \)).
+  - Tunes interpolation weights.
 
 ### Naive Bayes Classifier
 - **Training:** Learns text features and computes category probabilities based on N-grams.
