@@ -1,4 +1,4 @@
-# Advanced NLP Assignment 1: Language Modeling and Classification
+# Language Modeling and Classification
 
 ## Introduction
 This project explores two foundational NLP tasks:
